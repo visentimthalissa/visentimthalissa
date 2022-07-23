@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/1000487523287572531/1000494104775512225/tumblr_00394a1cfccac10b71161adb0af8e15d_90b00d33_400.jpg">
+  <img align="right" alt="Rafa-pic" height="130" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/1000487523287572531/1000493605204525137/inuyasha-kikyo.gif">
   <hr/>
 </div>
   <div> 
