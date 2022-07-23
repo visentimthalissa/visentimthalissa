@@ -1,4 +1,4 @@
-### Olá! Eu sou a Thalissa Visentim
+### Olá! Eu sou a Thalissa Visentim 👩‍💻
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
