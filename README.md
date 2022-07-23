@@ -14,11 +14,8 @@
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="130" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/1000487523287572531/1000494104775512225/tumblr_00394a1cfccac10b71161adb0af8e15d_90b00d33_400.jpg">
-  
   <hr/>
-
 </div>
-<br>
   <div> 
   <a href="https://www.youtube.com/channel/UCThmdkEYdFf3t4_bjMqFxqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/thalissa7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
