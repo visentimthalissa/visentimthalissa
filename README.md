@@ -16,7 +16,6 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1000487523287572531/1000494104775512225/tumblr_00394a1cfccac10b71161adb0af8e15d_90b00d33_400.jpg">
 </div>
 
-  <br>
   <div> 
   <a href="https://www.youtube.com/channel/UCThmdkEYdFf3t4_bjMqFxqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/thalissa7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
