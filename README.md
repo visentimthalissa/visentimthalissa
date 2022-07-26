@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/846926945463959572/1001517557389463582/thay.png">
+  <img align="right" alt="Rafa-pic" height="130" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/1000487523287572531/1001519620773138462/thayzita.png">
   <hr/>
 </div>
   <div> 
