@@ -21,11 +21,6 @@
   <a href="https://www.youtube.com/channel/UCThmdkEYdFf3t4_bjMqFxqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/thalissa7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thalissavisentim7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  <br>
-<div align="center">
-<img src="https://media.discordapp.net/attachments/1095085018746978438/1096081977758732348/kikis-delivery-service-ready.gif">
-<div>
   
   <br>  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
