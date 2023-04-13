@@ -14,7 +14,7 @@
           
   
   
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:40px;" src="https://media.discordapp.net/attachments/1095085018746978438/1096079690114015312/tumblr_f513d6d942f9aa79df0c532c2014957c_64d56099_400-removebg-preview.png">
+  <img align="right" alt="Rafa-pic" height="130" style="border-radius:40px;" src="https://media.discordapp.net/attachments/1095085018746978438/1096080128305537035/1908a7eae6903f9d5861b62b1e025788.jpg?width=455&height=455">
   <hr/>
 </div>
   <div> 
