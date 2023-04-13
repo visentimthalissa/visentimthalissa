@@ -23,6 +23,8 @@
   <a href = "mailto:thalissavisentim7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   <br>
+<img align="right" alt="Rafa-pic" height="130" style="border-radius:40px;" src="https://media.discordapp.net/attachments/1095085018746978438/1096081496709812295/tumblr_nlypylzrWl1tic1guo9_500.gif">
+  <br>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
