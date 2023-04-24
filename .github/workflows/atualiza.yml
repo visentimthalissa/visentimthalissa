@@ -30,8 +30,8 @@ jobs:
 
       - name: Baixar foto
         run: |
-          wget https://raw.githubusercontent.com/mnapolitano0/mnapolitano0/output/github-contribution-grid-snake-dark.svg
-          wget https://raw.githubusercontent.com/mnapolitano0/mnapolitano0/output/github-contribution-grid-snake.svg
+          wget https://raw.githubusercontent.com/visentimthalissa/visentimthalissa/output/github-contribution-grid-snake-dark.svg
+          wget https://raw.githubusercontent.com/visentimthalissa/visentimthalissa/output/github-contribution-grid-snake.svg
           git config user.name "visentimthalissa"
           git config user.email "thalissavisentim7@gmail.com"
 
